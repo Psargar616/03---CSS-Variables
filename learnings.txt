@@ -1,0 +1,7 @@
+Upadate CSS Variables with JS
+
+Steps:
+1. Use CSS variables while styling the components
+2. In JS file capture inputs
+3. in html file use dataset to get custon data properties such as data-suffix to add px or rem to input
+4. use events like "mousemove" and "change"
