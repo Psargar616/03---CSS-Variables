@@ -4,13 +4,13 @@ This is day two of #JavaScript30 challenge
 
 Created this awesome website update CSS Variables with JS using HTML, CSS, and JS.
 
-## before updating CSS variables
+## Before updating CSS variables
 ![before](screenshots/before.png)
 
-## after updating CSS variables
+## After updating CSS variables
 ![after](screenshots/after.png)
 
-[Live Demo]()
+[Live Demo](https://psargar616.github.io/03---CSS-Variables/)
 
 
 In this project learned about : 
